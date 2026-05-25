@@ -2,6 +2,16 @@
 
 > 不懂程式也能 30 分鐘上手 —— 從下載到自動抓資料，一步一步帶你做
 
+## 📖 立即開啟指南網頁
+
+**線上預覽（無需下載）：**
+
+[![開啟教學網頁](https://img.shields.io/badge/📊%20開啟教學網頁-立即閱讀-f0a500?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/vik1n9/beginner-s-guide-to-analyzing-taiwan-stocks-with-claude/blob/claude/zen-maxwell-slLHu/index.html)
+
+> 🔗 完整連結：`https://htmlpreview.github.io/?https://github.com/vik1n9/beginner-s-guide-to-analyzing-taiwan-stocks-with-claude/blob/claude/zen-maxwell-slLHu/index.html`
+
+---
+
 ## 專案簡介
 
 本專案是一份**完整的繁體中文單頁教學網頁**，目標讀者為熟悉股票／期貨短線操作、但完全不懂程式與 AI 的財經從業人員與投資者。
